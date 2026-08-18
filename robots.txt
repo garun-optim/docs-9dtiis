@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ecseg4.leogaming.cfd/sitemap.xml
